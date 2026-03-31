@@ -1,6 +1,8 @@
 # 🚀 Hi there, I'm Chanyoung!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/42School/42-design-system/master/assets/logos/42_logo_black.png" alt="42 Logo" width="150"/>
+  <a href="https://42.fr/en/homepage/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="150" alt="42 Logo" />
+  </a>
 </p>
 <h1 align="center">Hi there, I'm [Your Name]!</h1>
 <p align="center"><em>Student at 42 [Campus]</em></p>
