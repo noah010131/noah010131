@@ -1,6 +1,9 @@
 # 🚀 Hi there, I'm Chanyoung!
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=00BABC&height=200&section=header&text=42%20Student%20&%20Developer&fontSize=70)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/42School/42-design-system/master/assets/logos/42_logo_black.png" alt="42 Logo" width="150"/>
+</p>
+<h1 align="center">Hi there, I'm [Your Name]!</h1>
+<p align="center"><em>Student at 42 [Campus]</em></p>
 
 ### 👨‍💻 About Me
 - 🎓 Student at **42 Paris**
