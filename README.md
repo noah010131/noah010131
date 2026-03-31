@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Chanyoung!
+
 <p align="center">
   <a href="https://42.fr/en/homepage/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="150" alt="42 Logo" />
