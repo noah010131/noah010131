@@ -22,8 +22,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noah010131&show_icons=true&theme=tokyonight" alt="Stats Failed to Load - Check ID" />
+  <img src="https://github-readme-stats-noah010131.vercel.app/api?username=noah010131&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah010131&layout=compact&theme=tokyonight" alt="Langs Failed to Load - Check ID" />
+  <img src="https://github-readme-stats-noah010131.vercel.app/api/top-langs/?username=noah010131&layout=compact&theme=tokyonight" />
 </p>
