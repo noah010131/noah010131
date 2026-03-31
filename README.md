@@ -1,9 +1,9 @@
-# 🚀 Hi there, I'm [Your Name]!
+# 🚀 Hi there, I'm Chanyoung!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00BABC&height=200&section=header&text=42%20Student%20&%20Developer&fontSize=70)
 
 ### 👨‍💻 About Me
-- 🎓 Student at **42 [Campus Name]**
+- 🎓 Student at **42 Paris**
 - 🔭 Focusing on **Low-level programming** and **System administration**.
 - 🌱 Enthusiastic about efficient algorithms and memory management.
 
