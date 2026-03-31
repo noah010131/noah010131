@@ -27,10 +27,10 @@
 
 </div>
 ---
-
+[출처] 작고 소중한(허접) 깃허브를 꾸며보자! 02 - stats 표 만들기, Readme 부가기능, repository 고정해제|작성자 하유
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-noah010131.vercel.app/api?username=noah010131&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noah010131&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-noah010131.vercel.app/api/top-langs/?username=noah010131&layout=compact&theme=tokyonight" />
