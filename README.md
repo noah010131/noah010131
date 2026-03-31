@@ -4,8 +4,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="150" alt="42 Logo" />
   </a>
 </p>
-<h1 align="center">Hi there, I'm [Your Name]!</h1>
-<p align="center"><em>Student at 42 [Campus]</em></p>
+<h1 align="center">Hi there, I'm Chanyoung!</h1>
+<p align="center"><em>Student at 42 Paris</em></p>
 
 ### 👨‍💻 About Me
 - 🎓 Student at **42 Paris**
