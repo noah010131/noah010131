@@ -33,4 +33,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=noah010131&show_icons=true&theme=tokyonight" />
 </p>
 
+---
+
+### 🏅 Certifications
+<div align="left">
+  <a href="https://www.credly.com/badges/d1cf8897-eb49-455a-a270-32600ecd3373/public_url" target="_blank">
+    <img src="https://images.credly.com/images/5070220c-0354-4674-8b63-99757650577a/AWS-Certified_Cloud_Practitioner_600x600.png" width="120" height="120" alt="AWS Certified Cloud Practitioner" />
+  </a>
+</div>
+
+> *I'm continuously working to broaden my knowledge in cloud infrastructure and security.*
+
 > *"Every bug is an opportunity to learn something new."*
