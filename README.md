@@ -35,7 +35,6 @@
 
 ---
 
----
 
 ### 🏅 Certifications
 <div align="left">
@@ -45,7 +44,3 @@
 </div>
 
 > *Interested in building scalable and reliable cloud infrastructure.*
-
-> *I'm continuously working to broaden my knowledge in cloud infrastructure and security.*
-
-> *"Every bug is an opportunity to learn something new."*
