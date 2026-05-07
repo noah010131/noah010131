@@ -35,12 +35,16 @@
 
 ---
 
+---
+
 ### 🏅 Certifications
 <div align="left">
   <a href="https://www.credly.com/badges/d1cf8897-eb49-455a-a270-32600ecd3373/public_url" target="_blank">
-    <img src="https://images.credly.com/images/5070220c-0354-4674-8b63-99757650577a/AWS-Certified_Cloud_Practitioner_600x600.png" width="120" height="120" alt="AWS Certified Cloud Practitioner" />
+    <img src="https://images.credly.com/images/5070220c-0354-4674-8b63-99757650577a/AWS-Certified_Cloud_Practitioner_600x600.png" width="110" height="110" alt="AWS Certified Cloud Practitioner" />
   </a>
 </div>
+
+> *Interested in building scalable and reliable cloud infrastructure.*
 
 > *I'm continuously working to broaden my knowledge in cloud infrastructure and security.*
 
