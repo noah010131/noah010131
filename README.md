@@ -28,18 +28,10 @@
 
 ---
 
-### 📊 Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noah010131&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 🏅 Certifications
-<div align="left">
+<div align="center">
   <a href="https://www.credly.com/badges/d1cf8897-eb49-455a-a270-32600ecd3373/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Certified Solutions Architect – Associate" />
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="320" alt="AWS Certified Solutions Architect – Associate" />
   </a>
 </div>
 
-> *Interested in designing resilient and scalable cloud architectures.*
